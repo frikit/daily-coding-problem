@@ -1,4 +1,4 @@
-package com.github.interview
+package com.github.problems
 
 import org.junit.jupiter.api.Test
 
