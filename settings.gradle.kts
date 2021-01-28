@@ -1,4 +1,4 @@
-rootProject.name = "kt_interview"
+rootProject.name = "daily_coding_problem"
 
 pluginManagement {
     val kotlin_version: String by settings
